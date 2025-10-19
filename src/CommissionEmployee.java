@@ -1,4 +1,4 @@
-public abstract class CommissionEmployee {
+public class CommissionEmployee {
     protected final String firstName;
     protected final String lastName;
     protected final String socialSecurityNumber;
